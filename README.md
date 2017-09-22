@@ -8,4 +8,5 @@ A couple of python scripts that facilitate the translation of LateX content
 4. Change the 7 on line 3 in reassemble.py to your max number + 1
 5. Run translatex-reassembly.py
 6. Paste the contents of out.txt where it needs to go in your .tex file
+
 *Have fun !*
